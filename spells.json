@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Fireball",
+        "range": 150,
+        "shape": "circle",
+        "radius": 20
+    },
+    {
+        "name": "Lightning Bolt",
+        "range": 100,
+        "shape": "line",
+        "length": 100,
+        "width": 10
+    },
+    {
+        "name": "Sacred Flame",
+        "range": 60,
+        "shape": "line",
+        "length": 60,
+        "width": 5
+    },
+    {
+        "name": "Guiding Bolt",
+        "range": 120,
+        "shape": "line",
+        "length": 120,
+        "width": 5
+    }
+]
